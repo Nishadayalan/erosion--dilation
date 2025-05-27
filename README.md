@@ -21,8 +21,8 @@ Apply dilation using cv2.dilate() on the image with the same kernel.
 Display and compare the original, eroded, and dilated images.
  
 # Program:
-## Developed by: BHUMIREDDY LAKSHMI VARDHAN REDDY
-## Reg NO: 212223240016
+## Developed by: NISHA D
+## Reg NO: 212223230143
 ```
 import cv2
 import numpy as np
@@ -59,6 +59,14 @@ plt.axis('off')
 ```
 
 ## Output:
+
+
+![image](https://github.com/user-attachments/assets/e11ccddc-b93f-4ab6-b6b3-6f1b6d4d7f81)
+
+![image](https://github.com/user-attachments/assets/90f41c34-2b66-4b51-a3e0-a0085d9a9845)
+
+![image](https://github.com/user-attachments/assets/e9944022-e23f-42ab-9210-75fefc20139f)
+
 
 
 # Result
